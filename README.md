@@ -60,4 +60,4 @@ Contributions to the Matrix Mind project are welcome. Feel free to fork the repo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GPL-3.0 license](LICENSE).
